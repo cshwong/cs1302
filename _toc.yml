@@ -1,0 +1,12 @@
+- file: README.md
+
+- part: Lecture 1
+  numbered: true
+  chapters:
+  - file: Lecture1/Introduction to Computer Programming
+
+- part: Lab 1
+  numbered: true
+  chapters:
+  - file: Lab1/Setup
+  - file: Lab1/Card
